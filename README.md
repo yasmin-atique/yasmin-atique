@@ -6,7 +6,7 @@
 - 🗒️ This is where I am building my portfolio.
 
 
-I am an Environmental Engineer, specialist in management of contaminated sites, with background as analyst in an environmental consulting. I mostly do field investigation and write reports to the costumer and the environment agency, and recently data analysis. Currently, I am investing in learning advanced SQL and Machine Learning skills.
+I am an Environmental Engineer, specialist in management of contaminated sites, with background as analyst in an environmental consulting. I mostly deal with subjects in hidrogeology, hidrogeochemestry and recently data analysis. Currently, I am investing in learning advanced SQL and Machine Learning skills.
 
 Feel free to contact me:
 <div> 
@@ -32,8 +32,10 @@ Feel free to contact me:
 	<img align='center' alt="tableau"  height="30" width="70" src="https://img.shields.io/badge/-Tableau-000000?style=flat&logo=tableau" />
 	<img align='center' height="30" width="70" alt='mySQLa' src="https://img.shields.io/badge/-SQL-000000?style=flat&logo=mysql"/>
 	<img align='center' height="30" width="70" alt='Excel' src="https://img.shields.io/badge/-Excel-000000?style=flat&logo=microsoftexcel"/>
-</div>
-		       
+
+	  ![Snake animation](https://github.com/yasmin-atique/yasmin-atique/blob/output/github-contribution-grid-snake.svg)
+	</div>
+
 ---
 ## <div align="center"> Certificates and certifications </div> ##
  
