@@ -2,11 +2,11 @@
 
 - 🌳 I am an **environmental engineer**;
 - 🥇 Recently I've concluted **Ironhack's Bootcamp in Data Analysis**;
-- 🎰 I am currently delving into **data analysis** and **science**;
+- 🎰 I am currently delving into **data analysis** and **data science**;
 - 🗒️ This is where I am building my portfolio.
 
 
-I am an Environmental Engineer, specialist in management of contaminated sites, with background as analyst in an environmental consulting. I mostly deal with subjects in hidrogeology, hidrogeochemestry and recently data analysis. Currently, I am investing in learning advanced SQL and Machine Learning skills.
+I am an Environmental Engineer, specialist in management of contaminated sites, with background as analyst in an environmental consulting. I mostly deal with subjects as hidrogeology, hidrogeochemestry and recently data analysis. Currently, I am investing in learning advanced SQL and Machine Learning skills.
 
 Feel free to contact me:
 <div> 
