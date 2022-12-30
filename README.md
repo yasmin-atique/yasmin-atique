@@ -33,7 +33,7 @@ Feel free to contact me:
 	<img align='center' height="30" width="70" alt='mySQLa' src="https://img.shields.io/badge/-SQL-000000?style=flat&logo=mysql"/>
 	<img align='center' height="30" width="70" alt='Excel' src="https://img.shields.io/badge/-Excel-000000?style=flat&logo=microsoftexcel"/>
 
-	  ![Snake animation](https://github.com/yasmin-atique/yasmin-atique/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/yasmin-atique/yasmin-atique/blob/output/github-contribution-grid-snake.svg)
 	</div>
 
 ---
