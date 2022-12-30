@@ -39,6 +39,6 @@ Feel free to contact me:
 ---
 ## <div align="center"> Certificates and certifications </div> ##
  
-![WhatsApp Image 2022-12-30 at 10 46 47](https://user-images.githubusercontent.com/101889306/210076994-de10c93f-8814-43d7-abe5-178faf08a4be.jpeg)
+<p align="center"><img src="ironbadge.jpeg" width="50%" alt="Logo"></p>
 
 
