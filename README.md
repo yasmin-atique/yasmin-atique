@@ -65,7 +65,9 @@ Feel free to contact me:
 
 </div>
 <div align="center">
-        <img align="center" height="30" width="70" src="/Cluster_image.jpg" />
+        <a target="_blank" href="google.comp">
+            <img align="center" src="/Cluster_image.jpg" height="300" width="400" alt="money3"/>
+        </a>
 	</div>
         <br />
         <p>
@@ -80,7 +82,9 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-w
 	<img  alt="numpy" height="70" width="70" src="/NumPy_logo.svg"/>
 	<img  alt="seaborn" height="70" width="70" src="/logo-tall-lightbg.svg"/>
 	<img  alt="matlib" height="70" width="70" src="/matplotlib-tutorial.png"/>
-	<img  alt="sklearn" height="70" width="70" src="/1200px-Scikit_learn_logo_small.svg.png.png"/>
+	<img  alt="sklearn" height="70" width="70" src="/1200px-Scikit_learn_logo_small.svg.png"/>
+	<img  alt="surfer" height="70" width="70" src="/surfer_image.jpg"/>
+	<img  alt="qgis" height="70" width="70" src="/QGIS_image.png"/>
       </p>
       <p align="center">
         <strong> IDE used </strong>
@@ -92,6 +96,45 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-w
   </a>  
       </p>
     </td>
+
+<td width="50%" valign="top">
+      <h4 align="center">Relation between Rain in São Paulo and AM deforestation: tableau project</h4>
+        <br />
+	<div align="center">
+
+![GitHub top language](https://img.shields.io/github/languages/top/yasmin-atique/Tableau-Project)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/yasmin-atique/Tableau-Project)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/yasmin-atique/Tableau-Project)
+![GitHub last commit](https://img.shields.io/github/last-commit/yasmin-atique/Tableau-Project)
+
+</div>
+<div align="center">
+        <a target="_blank" href="google.comp">
+            <img align="center" src="/Tableau_image.png" height="300" width="400" alt="money3"/>
+        </a>
+	</div>
+        <br />
+        <p>
+	I've webscraping in INMET's Website to build the dataset in python and SQL. The main goal was to analyse the relation between São Paulo State pluviometry, Amazon deforastation and La niña/El niño phenomenon</br> Repo below:</p>
+      <p align="center">
+	 <br/>
+        <strong> Technologies used </strong>
+        <br/>
+        <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img
+	src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="python" height="70" width="70"/> </a>
+	<img alt="pandas"  height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
+	<img alt="mysql"  height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+	<img alt="tableau"  height="70" width="70" src="/tableau_logo.png" />
+      </p>
+      <p align="center">
+        <strong> IDE used </strong>
+        <br/>
+        </p>
+      <p align="center">
+  <a href="https://github.com/yasmin-atique/Tableau-Project" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=CODE&color=05F718&style=plastic&logo=github&logo-color=white"/>
+  </a>  
+  </tr>
 </table>
 
 ---
