@@ -16,12 +16,24 @@ Feel free to contact me:
 
 ---
 
-## <div align="center"> Githib Stats </div> ##
+## <div align="center"> Github Stats </div> ##
 
 <div align="center">
   <a href="https://github.com/yasmin-atique">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yasmin-atique&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasmin-atique&layout=compact&langs_count=7&theme=onedark"/>
+</div>
+
+<div align="center">
+
+<p><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yasmin-atique&theme=2077" /></p>
+
+</div>
+
+<div align="center">
+
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=hbatistuzzo&theme=onedark&stroke=0000)](https://git.io/streak-stats)
+
 </div>
 
 ---
@@ -35,6 +47,52 @@ Feel free to contact me:
 
  ![Snake animation](https://github.com/yasmin-atique/yasmin-atique/blob/output/github-contribution-grid-snake.svg)
 	</div>
+
+---
+## <div align="center"> Projects </div> ##
+<table>
+  
+  <tr>
+    <td width="50%" valign="top">
+      <h4 align="center">Clustering analysis of Amazon deforestation</h4>
+        <br />
+	<div align="center">
+
+![GitHub top language](https://img.shields.io/github/languages/top/yasmin-atique/Embargos-de-desmatamento-na-AM-Um-estudo-de-clusteriza-o)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/yasmin-atique/Embargos-de-desmatamento-na-AM-Um-estudo-de-clusteriza-o)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/yasmin-atique/Embargos-de-desmatamento-na-AM-Um-estudo-de-clusteriza-o)
+![GitHub last commit](https://img.shields.io/github/last-commit/yasmin-atique/Embargos-de-desmatamento-na-AM-Um-estudo-de-clusteriza-o)
+
+</div>
+<div align="center">
+        <a target="_blank" href="google.comp">
+            <img align="center" src="vgos.gif" height="300" width="400" alt="AVISO"/>
+        </a>
+	</div>
+        <br />
+        <p>
+I've used CMEMS altimetry data to create functions that plot global monthly climatologies of zonal and meridional geostrophic velocities. The absolute dynamic topography variable was used to construct hovmöller diagrams in latitudes with strong signals in the low-frequency energy spectrum. Rossby waves can then be visualized in this format. You can check it on the repo below.<br></p>
+      <p align="center">
+        <strong> Technologies used </strong>
+        <br/>
+        <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="python" height="50" width="60"/> </a>
+	<img  alt="pandas"  height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
+	<img  alt="xarray"  height="70" width="70" src="xarray.jpg" />
+	<img  alt="dask" height="70" width="70" src="dask.svg"/>
+      </p>
+      <p align="center">
+        <strong> IDE used </strong>
+        <br/>
+        <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+      </p>
+      <p align="center">
+  <a href="https://github.com/hbatistuzzo/CMEMS-altimetry" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=CODE&color=05F718&style=plastic&logo=github&logo-color=white"/>
+  </a>  
+      </p>
+    </td>
+</table>
 
 ---
 ## <div align="center"> Certificates and certifications </div> ##
