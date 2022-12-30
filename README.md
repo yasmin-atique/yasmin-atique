@@ -66,7 +66,7 @@ Feel free to contact me:
 </div>
 <div align="center">
         <a target="_blank" href="google.comp">
-            <img align="center" src="/Cluster_image.jpg" height="300" width="400" alt="money3"/>
+            <img align="center" src="/Cluster_image.jpg" alt="money3"/>
         </a>
 	</div>
         <br />
@@ -79,12 +79,12 @@ I've used IBAMA's data and HDBSCAN method to identify spots of deforestation in 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="python" height="50" width="60"/> </a>
 	<img  alt="pandas"  height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
 	<img  alt="regex"  height="70" width="70" src="/regex_image.png" />
-	<img  alt="numpy" height="70" width="70" src="/NumPy_logo.svg"/>
-	<img  alt="seaborn" height="70" width="70" src="/logo-tall-lightbg.svg"/>
-	<img  alt="matlib" height="70" width="70" src="/matplotlib-tutorial.png"/>
-	<img  alt="sklearn" height="70" width="70" src="/1200px-Scikit_learn_logo_small.svg.png"/>
-	<img  alt="surfer" height="70" width="70" src="/surfer_image.jpg"/>
-	<img  alt="qgis" height="70" width="70" src="/QGIS_image.png"/>
+	<img  alt="numpy" height="70" src="/NumPy_logo.svg"/>
+	<img  alt="seaborn" height="70" src="/logo-tall-lightbg.svg"/>
+	<img  alt="matlib" height="70" src="/matplotlib-tutorial.png"/>
+	<img  alt="sklearn" height="70" src="/1200px-Scikit_learn_logo_small.svg.png"/>
+	<img  alt="surfer" height="70" src="/surfer_image.jpg"/>
+	<img  alt="qgis" height="70" src="/QGIS_image.png"/>
       </p>
       <p align="center">
         <strong> IDE used </strong>
@@ -134,6 +134,82 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-w
   <a href="https://github.com/yasmin-atique/Tableau-Project" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=CODE&color=05F718&style=plastic&logo=github&logo-color=white"/>
   </a>  
+  </tr>
+	
+  <tr>
+    <td width="50%" valign="top">
+      <h4 align="center">Shark Attack Project</h4>
+        <br />
+	<div align="center">
+
+![GitHub top language](https://img.shields.io/github/languages/top/yasmin-atique/Shark-Attack-Project)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/yasmin-atique/Shark-Attack-Project)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/yasmin-atique/Shark-Attack-Project)
+![GitHub last commit](https://img.shields.io/github/last-commit/yasmin-atique/Shark-Attack-Project)
+
+</div>
+<div align="center">
+        <a target="_blank" href="google.comp">
+            <img src="Sharkattak_image.png" alt="SHARK"/>
+        </a>
+	</div>
+        <br />
+        <p>The goal of this projecto was to analyse which country has the more fattal cases and which spieces are more deadly</p>
+      <p align="center">
+        <strong> Technologies used </strong>
+        <br/>
+        <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img
+	src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="python" height="70" width="70"/> </a>
+	<img alt="pandas"  height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
+	<img  alt="regex"  height="70" width="70" src="/regex_image.png" />
+      </p>
+      <p align="center">
+        <strong> IDE used </strong>
+        <br/>
+	</p>
+      <p align="center">
+  <a href="https://github.com/yasmin-atique/Shark-Attack-Project" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=CODE&color=05F718&style=plastic&logo=github&logo-color=white"/>
+  </a>  
+      </p>
+    </td>
+	  
+<td width="50%" valign="top">
+      <h4 align="center">Sudoku</h4>
+        <br />
+	<div align="center">
+
+![GitHub top language](https://img.shields.io/github/languages/top/yasmin-atique/Sudoku)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/yasmin-atique/Sudoku)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/yasmin-atique/Sudoku)
+![GitHub last commit](https://img.shields.io/github/last-commit/yasmin-atique/Sudoku)
+
+</div>
+<div align="center">
+        <a target="_blank" href="google.comp">
+            <img src="Sudoku_image.png" alt="heat"/>
+        </a>
+	</div>
+        <br />
+        <p>This was my first project in python. The goal was to create a Sudoku game.</p>
+<br/>
+	<p align="center">
+        <strong> Technologies used </strong>
+        <br/>
+        <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="python" height="70" width="70"/> </a>
+	
+      </p>
+      <p align="center">
+        <strong> IDE used </strong>
+        <br/>
+        </p>
+      <p align="center">
+  <a href="https://github.com/yasmin-atique/Sudoku" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=CODE&color=05F718&style=plastic&logo=github&logo-color=white"/>
+  </a>
+</p>
+</td>
   </tr>
 </table>
 
