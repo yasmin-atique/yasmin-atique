@@ -199,12 +199,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-w
         <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="python" height="70" width="70"/> </a>
 	
-      </p>
-      <p align="center">
-        <strong> IDE used </strong>
-        <br/>
-        </p>
-      <p align="center">
+      
   <a href="https://github.com/yasmin-atique/Sudoku" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=CODE&color=05F718&style=plastic&logo=github&logo-color=white"/>
   </a>
