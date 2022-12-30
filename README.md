@@ -65,29 +65,29 @@ Feel free to contact me:
 
 </div>
 <div align="center">
-        <a target="_blank" href="google.comp">
-            <img align="center" src="vgos.gif" height="300" width="400" alt="AVISO"/>
-        </a>
+        <img align="center" height="30" width="70" src="/Cluster_image.jpg" />
 	</div>
         <br />
         <p>
-I've used CMEMS altimetry data to create functions that plot global monthly climatologies of zonal and meridional geostrophic velocities. The absolute dynamic topography variable was used to construct hovmöller diagrams in latitudes with strong signals in the low-frequency energy spectrum. Rossby waves can then be visualized in this format. You can check it on the repo below.<br></p>
+I've used IBAMA's data and HDBSCAN method to identify spots of deforestation in Amazon Forest.<br></p>
       <p align="center">
         <strong> Technologies used </strong>
         <br/>
         <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="python" height="50" width="60"/> </a>
 	<img  alt="pandas"  height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
-	<img  alt="xarray"  height="70" width="70" src="xarray.jpg" />
-	<img  alt="dask" height="70" width="70" src="dask.svg"/>
+	<img  alt="regex"  height="70" width="70" src="/regex_image.png" />
+	<img  alt="numpy" height="70" width="70" src="/NumPy_logo.svg"/>
+	<img  alt="seaborn" height="70" width="70" src="/logo-tall-lightbg.svg"/>
+	<img  alt="matlib" height="70" width="70" src="/matplotlib-tutorial.png"/>
+	<img  alt="sklearn" height="70" width="70" src="/1200px-Scikit_learn_logo_small.svg.png.png"/>
       </p>
       <p align="center">
         <strong> IDE used </strong>
         <br/>
-        <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
-      </p>
+        </p>
       <p align="center">
-  <a href="https://github.com/hbatistuzzo/CMEMS-altimetry" target="_blank">
+  <a href="https://github.com/yasmin-atique/Embargos-de-desmatamento-na-AM-Um-estudo-de-clusteriza-o" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=CODE&color=05F718&style=plastic&logo=github&logo-color=white"/>
   </a>  
       </p>
